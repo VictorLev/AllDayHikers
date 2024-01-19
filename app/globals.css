@@ -11,3 +11,7 @@ body {
   color: rgb(var(--foreground-rgb));
   background: rgb(var(--background-rgb));
 }
+
+.textshadow {
+  text-shadow: 1px 1px 10px black;
+}
