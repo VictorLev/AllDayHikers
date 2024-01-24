@@ -10,9 +10,9 @@ import { IconSearch, IconUser, IconShoppingCart } from '@tabler/icons-react';
 const Navbar = () => {
 
     return (
-      <div className="absolute t-0 r-0 z-10 w-full">
+      <div className="absolute t-0 r-0 z-10 w-full bg-gradient-to-b from-black/[.4] ">
         <Container>
-          <div className="flex h-20 items-center">
+          <div className="flex h-40 items-center p-4">
             {/* LOGO */}
             <div className="px-8">
               <Image
@@ -24,7 +24,7 @@ const Navbar = () => {
             </div>
             {/* NAVBAR MENU */}
             <div className="m-auto w-full flex justify-center">
-              <ul className="flex flex-row gap-x-8 text-white textshadow">
+              <ul className="flex flex-wrap justify-center gap-x-8 text-white textshadow">
                 <li>
                   ACTIVITY
                 </li>
@@ -58,7 +58,7 @@ const Navbar = () => {
               </ul>
             </div>
             {/* ICONS */}
-            <div className="flex flex-row gap-3 textshadow m-4">
+            <div className="flex flex-row gap-4 textshadow m-4">
               <IconUser color="white" size={30}/>
               <IconSearch color="white" size={30}/>
               <IconShoppingCart color="white" size={30}/>
