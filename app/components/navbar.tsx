@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react";
-import Container from "./container";
+import Container from "./ui/container";
 import Image from "next/image";
 import { IconSearch, IconUser, IconShoppingCart } from '@tabler/icons-react';
 

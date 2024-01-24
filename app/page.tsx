@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Navbar from './components/navbar'
 import Billboard from './components/billboard'
 import Announcement from './components/announcement'
+import Features from './components/features'
 
 export default function Home() {
   return (
@@ -9,7 +10,7 @@ export default function Home() {
       <Announcement/>
       <Navbar/>
       <Billboard/>
-
+      <Features/>
 
     </div>
   )
