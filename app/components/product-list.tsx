@@ -1,25 +1,21 @@
 
 import ProductCard from "./ui/product-card";
 
-interface ProductListProps {
-    title:string;
-}
 
-const ProductList: React.FC<ProductListProps> = ({
-    title
+const ProductList = ({
+
 }) => {
 
-    var items = [ 1,2,3,4]
 
     return (
-        <div className="space-y-4">
-            <h3 className="font-bold text-3xl">{title}</h3>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
-
+        <div className="p-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+              <ProductCard id={1} />
+              <ProductCard id={2} />
+              <ProductCard id={0} />
             </div>
         </div>
     );
-
 }
 
 export default ProductList;

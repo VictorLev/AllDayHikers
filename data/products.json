@@ -1,0 +1,23 @@
+{
+  "products" : [
+    {
+      "id" : 1,
+      "name" : "LIGHT INSULATED JACKET MEN'S",
+      "category" : "light wear",
+      "price" : "$169.99",
+      "colours" : [ "blue", "black" ],
+      "size" : [ "S", "M", "L" ],
+      "imagesurl" : [ "/products/coat-b.jpg", "/products/coat-a.jpg" ]
+    },
+    {
+
+      "id" : 2,
+      "name" : "SCARPA TERRA LIGHT BOOT",
+      "category" : "light wear",
+      "price" : "$379.95",
+      "colours" : [ "Beige", "black" ],
+      "size" : [ "S", "M", "L" ],
+      "imagesurl" : [ "/products/boot-a.jpg", "/products/boot-b.jpg" ]
+    }
+  ]
+}

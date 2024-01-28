@@ -6,6 +6,7 @@ import Container from "./ui/container";
 
 import { IconHelpHexagon, IconSun} from '@tabler/icons-react';
 import Section from "./ui/section";
+import ProductList from "./product-list";
 
 
 const Features = () => {
@@ -20,7 +21,7 @@ const Features = () => {
               </div>
             </a>
           </div>
-
+          <ProductList />
 
         </Section>
       </div>
