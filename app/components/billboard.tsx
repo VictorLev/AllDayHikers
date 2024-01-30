@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useState } from "react";
 import Container from "./ui/container";
 
-import { IconHelpHexagon, IconSun} from '@tabler/icons-react';
+import { IconHelpHexagon, IconSun, IconMessages} from '@tabler/icons-react';
 
 
 const Billboard = () => {
@@ -38,8 +38,8 @@ const Billboard = () => {
           <Container>
             <div className="flex flex-row justify-around font-sans items-center text-[#536b4d] mx-10 my-2">
               <div className="flex flex-row gap-2 items-center ">
-                <IconHelpHexagon size={30}/>
-                Frequently Asked Questions
+                <IconMessages size={30}/>
+                Talk to an Expert
               </div>
               <div className="flex flex-row gap-2 items-center">
                 <IconSun size={30}/>

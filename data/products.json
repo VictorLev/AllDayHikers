@@ -15,9 +15,39 @@
       "name" : "SCARPA TERRA LIGHT BOOT",
       "category" : "light wear",
       "price" : "$379.95",
-      "colours" : [ "Beige", "black" ],
-      "size" : [ "S", "M", "L" ],
+      "colours" : [ "Beige"],
+      "size" : [ "6", "7", "8", "9" , "10" ],
       "imagesurl" : [ "/products/boot-a.jpg", "/products/boot-b.jpg" ]
+    },
+    {
+
+      "id" : 3,
+      "name" : "SUPER WHITE 2 PERS. TENT",
+      "category" : "light gear",
+      "price" : "$889.95",
+      "colours" : [ "white", "cream", "gray" ],
+      "size" : [],
+      "imagesurl" : [ "/products/tent-b.jpg", "/products/tent-a.jpg" ]
+    },
+    {
+
+      "id" : 4,
+      "name" : "ODIN ALUMINIUM POLE PAIR",
+      "category" : "light gear",
+      "price" : "$279.95",
+      "colours" : [ "Blue", "Pink" ],
+      "size" : [],
+      "imagesurl" : [ "/products/pole-a.jpg", "/products/pole-b.jpg" ]
+    },
+    {
+
+      "id" : 5,
+      "name" : "SCARPA TERRA LIGHT BOOT",
+      "category" : "light gear",
+      "price" : "$439.95",
+      "colours" : [ "Cobalt", "black" ],
+      "size" : [],
+      "imagesurl" : [ "/products/sleep-a.jpg", "/products/sleep-b.jpg" ]
     }
   ]
 }
