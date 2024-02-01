@@ -7,7 +7,8 @@
       "price" : "$169.99",
       "colours" : [ "blue", "black" ],
       "size" : [ "S", "M", "L" ],
-      "imagesurl" : [ "/products/coat-b.jpg", "/products/coat-a.jpg" ]
+      "imagesurl" : [ "/products/coat-b.jpg", "/products/coat-a.jpg" ],
+      "description" : "Introducing our latest innovation in outdoor comfort and style – the Light Insulated Jacket for Men. Crafted with precision and designed for versatility, this jacket seamlessly blends form and function to elevate your outdoor experience."
     },
     {
 
@@ -17,7 +18,8 @@
       "price" : "$379.95",
       "colours" : [ "Beige"],
       "size" : [ "6", "7", "8", "9" , "10" ],
-      "imagesurl" : [ "/products/boot-a.jpg", "/products/boot-b.jpg" ]
+      "imagesurl" : [ "/products/boot-a.jpg", "/products/boot-b.jpg" ],
+      "description" : "Scarpa Terra Light Boot – a pinnacle of performance and comfort engineered for those who demand excellence in every step. Meticulously crafted with precision and passion, this boot redefines outdoor footwear, combining rugged durability with feather-light agility."
     },
     {
 
@@ -27,7 +29,8 @@
       "price" : "$889.95",
       "colours" : [ "white", "cream", "gray" ],
       "size" : [],
-      "imagesurl" : [ "/products/tent-b.jpg", "/products/tent-a.jpg" ]
+      "imagesurl" : [ "/products/tent-b.jpg", "/products/tent-a.jpg" ],
+      "description" : "The Super White 2-Person Tent is a marvel of lightweight construction, making it the perfect companion for backpacking, camping, or any outdoor escapade. Its advanced materials not only contribute to its feather-light design but also guarantee durability and resistance against the elements. The tent's weatherproof exterior ensures that you stay dry and protected in unexpected rain or mist."
     },
     {
 
@@ -37,17 +40,19 @@
       "price" : "$279.95",
       "colours" : [ "Blue", "Pink" ],
       "size" : [],
-      "imagesurl" : [ "/products/pole-a.jpg", "/products/pole-b.jpg" ]
+      "imagesurl" : [ "/products/pole-a.jpg", "/products/pole-b.jpg" ],
+      "description" : "Crafted from high-quality aluminum, the Odin poles strike the perfect balance between strength and weight. Their lightweight nature ensures ease of transport, making them an ideal companion for those who seek adventure without compromising on performance. These poles are meticulously designed to provide reliable structural support for your tent, ensuring stability in diverse terrains and weather conditions."
     },
     {
 
       "id" : 5,
-      "name" : "SCARPA TERRA LIGHT BOOT",
+      "name" : "COBALT BLUE LIGHTING SLEEPING",
       "category" : "light gear",
       "price" : "$439.95",
       "colours" : [ "Cobalt", "black" ],
       "size" : [],
-      "imagesurl" : [ "/products/sleep-a.jpg", "/products/sleep-b.jpg" ]
+      "imagesurl" : [ "/products/sleep-a.jpg", "/products/sleep-b.jpg" ],
+      "description" : "Introducing the Cobalt Blue Lighting Sleeping Bag – a revolutionary blend of comfort, innovation, and style designed to transform your nights under the stars. Meticulously crafted with the modern camper in mind, this sleeping bag not only embraces advanced technology but also adds a touch of sophistication to your outdoor sleep experience."
     }
   ]
 }
