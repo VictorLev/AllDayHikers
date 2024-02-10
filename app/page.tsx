@@ -4,6 +4,7 @@ import Billboard from './components/billboard'
 import Announcement from './components/announcement'
 import Features from './components/features'
 import Tiles from './components/tiles'
+import Messages from './components/message'
 
 export default function Home() {
   return (
@@ -13,6 +14,8 @@ export default function Home() {
       <Billboard/>
       <Features/>
       <Tiles/>
+      <Features/>
+      <Messages/>
     </div>
   )
 }

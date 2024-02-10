@@ -13,6 +13,7 @@ const Tiles = () => {
             <div className="relative h-auto min-h-[350px] lg:min-h-[500px] w-auto overflow-hidden flex justify-center items-center">
               <Image
                     fill
+                    sizes="50vw"
                     src="/tiles/t1.jpg"
                     alt=""
                     className="object-cover object-center -z-10"
@@ -31,6 +32,7 @@ const Tiles = () => {
             <div className="relative min-h-[350px] lg:min-h-[500px] w-auto flex justify-center items-center">
               <Image
                     fill
+                    sizes="50vw"
                     src="/tiles/t2.jpg"
                     alt=""
                     className="object-cover object-center -z-10"
@@ -39,6 +41,7 @@ const Tiles = () => {
             <div className="relative min-h-[350px] lg:min-h-[500px] w-auto flex justify-center items-center" >
               <Image
                     fill
+                    sizes="50vw"
                     src="/tiles/t3.jpg"
                     alt=""
                     className="object-cover object-center -z-10"
@@ -54,6 +57,7 @@ const Tiles = () => {
             <div className="lg:col-span-3 relative min-h-[350px] lg:min-h-[500px] w-auto flex justify-center items-center">
               <Image
                     fill
+                    sizes="100vw"
                     src="/tiles/t4.jpg"
                     alt=""
                     className="object-cover object-center -z-10"
@@ -69,6 +73,7 @@ const Tiles = () => {
             <div className="relative min-h-[350px] lg:min-h-[500px] w-auto flex justify-center items-center">
               <Image
                     fill
+                    sizes="50vw"
                     src="/tiles/t5.jpg"
                     alt=""
                     className="object-cover object-center -z-10"
@@ -84,6 +89,7 @@ const Tiles = () => {
             <div className="relative min-h-[350px] lg:min-h-[500px] w-auto flex justify-center items-center">
               <Image
                     fill
+                    sizes="50vw"
                     src="/tiles/t6.jpg"
                     alt=""
                     className="object-cover object-center -z-10"
@@ -91,6 +97,7 @@ const Tiles = () => {
             </div>
             <div className="relative min-h-[350px] lg:min-h-[500px] w-auto flex justify-center items-center">
               <Image
+                    sizes="50vw"
                     fill
                     src="/tiles/t7.jpg"
                     alt=""

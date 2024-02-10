@@ -28,6 +28,7 @@ const Billboard = () => {
           <Image
             src="/home-billboard/zach-betten-KYTT8L5JLDs-unsplash.jpg"
             alt="billboard"
+            sizes="100vw"
             fill
             style={{ objectFit: "cover" }}
             onLoad={handleLoad}
