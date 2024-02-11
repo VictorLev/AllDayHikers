@@ -5,6 +5,8 @@ import Announcement from './components/announcement'
 import Features from './components/features'
 import Tiles from './components/tiles'
 import Messages from './components/message'
+import Brands from './components/brands'
+import Maps from './components/maps'
 
 export default function Home() {
   return (
@@ -16,6 +18,8 @@ export default function Home() {
       <Tiles/>
       <Features/>
       <Messages/>
+      <Brands/>
+      <Maps/>
     </div>
   )
 }
