@@ -7,6 +7,7 @@ import Tiles from './components/tiles'
 import Messages from './components/message'
 import Brands from './components/brands'
 import Maps from './components/maps'
+import Footer from './components/footer'
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Messages/>
       <Brands/>
       <Maps/>
+      <Footer/>
     </div>
   )
 }

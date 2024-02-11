@@ -1,15 +1,10 @@
 "use client"
 
-import Section from "./ui/section";
-import ProductList from "./product-list";
 import Image from "next/image";
 
-
 const Maps = () => {
-
     return (
-
-      <div className="relative h-[650px] sm:h-[500px] w-full overflow-hidden">
+      <div className="relative h-[650px] sm:h-[500px] w-full overflow-hidden mb-16">
         <Image
               fill
               sizes="100vw"
